@@ -10,9 +10,9 @@ Structured/Testable code<br>
 
 ```
 Input:
-“17-01-2023” “19-01-2023” “cityName”
+"17-01-2023" "19-01-2023" "cityName"
 ShouldTakeUmbrella
-“19-01-2023” “21-01-2023” “cityName”
+"19-01-2023" "21-01-2023" "cityName"
 NoNeedOfUmbrella
 
 ```
